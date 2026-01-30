@@ -1,0 +1,5 @@
+{
+  "name": "Pterodactyl MC Panel Clone",
+  "description": "A high-fidelity Minecraft server management panel inspired by Pterodactyl, featuring real-time console simulation, file management, and resource monitoring.",
+  "requestFramePermissions": []
+}
